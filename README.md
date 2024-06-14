@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/124273822?s=400&u=9052dfa758cddbd0d49d534aa1b1244d88d06cc0&v=4" align="center" height="200" width="200" />
+<img src="https://w7.pngwing.com/pngs/490/978/png-transparent-artificial-intelligence-technology-brain-technology-blue-electronics-company-thumbnail.png" align="center" height="200" width="200" />
 </div>  
   
 
