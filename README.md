@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://w7.pngwing.com/pngs/490/978/png-transparent-artificial-intelligence-technology-brain-technology-blue-electronics-company-thumbnail.png" align="center" height="200" width="200" />
+<img src="https://w7.pngwing.com/pngs/569/251/png-transparent-earth-technology-technology-creative-material-angle-electronics-web-design-thumbnail.png" align="center" height="200" width="200" />
 </div>  
   
 
