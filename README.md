@@ -1,6 +1,5 @@
-<div align="center">
-<img src="https://github.com/user-attachments/assets/aeff6d95-c562-41c1-85a4-68e549920eb4" align="center" height="300" width="1000" />
-</div>  
+
+![Black Modern Personal LinkedIn Banner(1)](https://github.com/user-attachments/assets/286455ac-437d-4fec-80f1-979eab1b2fe1)
 
   
 
