@@ -1,6 +1,7 @@
 <div align="center">
-<img src="https://media.istockphoto.com/id/1360927961/photo/abstract-background-with-interweaving-of-colored-lines-and-dots-network-connection-structure.jpg?s=612x612&w=0&k=20&c=UTu0m3kCMm6f1kien9TNCrFtliESKUMrAeyKkI5s56I=" align="center" height="300" width="1000" />
+<img src="https://github.com/user-attachments/assets/aeff6d95-c562-41c1-85a4-68e549920eb4" align="center" height="300" width="1000" />
 </div>  
+
   
 
 ### <div align="center">I am Aryan Raj, currently pursuing a B.Tech in CSE from the National Institute of Technology (NIT) Rourkela.</div>  
